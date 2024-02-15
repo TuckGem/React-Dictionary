@@ -14,21 +14,11 @@ function App() {
         <footer>
           <a
             className="gitLink"
-            href="
+            href="https://github.com/TuckGem/React-Dictionary/tree/main"
             target="_blank"
             rel="noreferrer"
           >
             Open-source
-          </a>{" "}
-          code by{" "}
-          <a
-            className="myWebsite"
-            href=""
-            target="_blank"
-            rel="noreferrer"
-          >
-            {" "}
-
           </a>
         </footer>
       </div>
