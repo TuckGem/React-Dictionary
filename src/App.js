@@ -1,4 +1,4 @@
-App {
+App{
   padding: 60px 0 100px;
   max-width: 960px;
   margin: 0 auto;
