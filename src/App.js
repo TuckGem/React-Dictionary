@@ -1,8 +1,4 @@
-App{
-  padding: 60px 0 100px;
-  max-width: 960px;
-  margin: 0 auto;
-}
+
 App .dictionary-title {
   text-align: center;
   margin: 20px 0;
